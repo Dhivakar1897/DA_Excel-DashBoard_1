@@ -11,7 +11,7 @@ The dashboard provides insights into accident severity, vehicle involvement, roa
 
 ## **Dashboard**
 
-![Screenshot (495)](https://github.com/user-attachments/assets/5826cd81-b51c-420b-86e6-8b830982d77f)
+![Screenshot (495)](https://github.com/Dhivakar1897/DA_Excel-DashBoard_1/blob/main/DashBoard.jpg))
 
 ## 📊 Dashboard Highlights
 - **Total Casualties:** 417,883  

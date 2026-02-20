@@ -9,6 +9,10 @@ The dashboard provides insights into accident severity, vehicle involvement, roa
 - **Dashboard Image** → Visual representation of the accident report  
 - **README.md** → Documentation of the project  
 
+## **Dashboard**
+
+![Screenshot (495)](https://github.com/user-attachments/assets/5826cd81-b51c-420b-86e6-8b830982d77f)
+
 ## 📊 Dashboard Highlights
 - **Total Casualties:** 417,883  
   - Fatal: 7,135 (1.7%)  

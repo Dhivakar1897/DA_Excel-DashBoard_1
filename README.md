@@ -1,4 +1,4 @@
-# 🚦 Road Accident Report Dashboard (2021–2022)
+# 🚦 Road Accident Report Dashboard (2021–2022).
 
 ## 📖 Overview
 This project presents a detailed analysis of road accident data for the years 2021 and 2022.  
@@ -61,9 +61,9 @@ The dashboard provides insights into accident severity, vehicle involvement, roa
 3. Explore the dashboard to view accident trends and insights.  
 
 ## 🔧 Tools Used
-- Microsoft Excel  
-- PivotTables & Charts  
-- Data Visualization Techniques  
+- Microsoft Excel.
+- PivotTables & Charts. 
+- Data Visualization Techniques.  
 
 ## 🙌 Acknowledgments
 Thanks to open data sources and analytics communities for inspiration in building this project.
